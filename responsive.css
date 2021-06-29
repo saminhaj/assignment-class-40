@@ -9,6 +9,9 @@
 }
 
 @media(max-width:991px){
+    .header{
+        position: relative;
+    }
     .primary-menu {
         width: 200px;
         padding-bottom: 24px;
